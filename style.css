@@ -1,0 +1,30 @@
+.travel_maindiv{
+    border:1px solid lightgrey;
+}
+.travel_maindiv img{
+    width:100%;
+
+}
+.travel_maindiv h5, .travel_maindiv p{
+    padding:200px;
+}
+body{
+    text-align: center;
+}
+.movie_head{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display:inline-block;
+
+}
+.movie_head i{
+    float:right;
+
+}
+.movie_text span{
+    color:yellow;
+
+}
